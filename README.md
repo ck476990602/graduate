@@ -1,7 +1,7 @@
 # TAS
 > Teaching Assistant System。基于Spring Boot & Spring MVC开发的教学辅助系统。
 >
-> Version 1.0.1
+> Version 1.0.5
 
 #### DONE
 
@@ -15,7 +15,7 @@
 - 课程留言
 - 消息推送
 - 在线编译系统
-- UI个性化
+- 支持UI个性化
 
 #### TODO
 
